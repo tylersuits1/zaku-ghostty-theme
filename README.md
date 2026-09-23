@@ -44,6 +44,7 @@ Suggested font: [Departure Mono](https://departuremono.com).
 ## Also
 
 - [Tallgeese](https://github.com/tylersuits1/tallgeese-ghostty-theme) — the pearl-white, crest-red companion theme.
+- Pairs well with [Sheets](https://github.com/tylersuits1/Sheets) — manage this theme (and your fonts, opacity) across Ghostty, Kitty, and Alacritty from one place.
 
 ---
 
