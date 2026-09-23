@@ -1,0 +1,23 @@
+# Zaku — from https://github.com/tylersuits1/zaku-ghostty-theme
+background = #14170f
+foreground = #d9d3b8
+cursor-color = #c0355c
+cursor-text = #14170f
+selection-background = #2a3323
+selection-foreground = #d9d3b8
+palette = 0=#14170f
+palette = 1=#c0355c
+palette = 2=#4b6a4e
+palette = 3=#c9be8f
+palette = 4=#5c6b6a
+palette = 5=#7a3a66
+palette = 6=#93a98a
+palette = 7=#d9d3b8
+palette = 8=#3a3f2f
+palette = 9=#dd6584
+palette = 10=#6e9772
+palette = 11=#e0d8ae
+palette = 12=#7f9291
+palette = 13=#a2649a
+palette = 14=#b6cbac
+palette = 15=#f2efdd
